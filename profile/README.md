@@ -1,6 +1,6 @@
 # 🏠 AnyService
 
-A web platform that connects users with local home service providers — plumbers, electricians, cleaners, and more.
+An app that connects users with local home service providers — plumbers, electricians, cleaners, and more.
 Helping people find trusted services quickly and easily.
 
 ---
