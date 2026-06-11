@@ -18,7 +18,7 @@ Helping people find trusted services quickly and easily.
 
 ## 🛠️ Tech Stack
 
-- 🌐 HTML, CSS, JavaScript
+- 🌐 HTML, TypeScript, JavaScript
 - ⚙️ Python Flask / Node.js (TBD)
 - 🗄️ PostgreSQL / MySQL (TBD)
 - 📁 Git & GitHub
